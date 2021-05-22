@@ -1,0 +1,13 @@
+h1 {
+    text-align: center;
+    color: black;
+    background: orange
+}
+.flex {
+    display: flex;
+    flex-wrap: wrap
+}
+.card {
+    justify-content: center;
+    margin: 10px;
+}
